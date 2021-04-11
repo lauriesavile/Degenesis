@@ -1,0 +1,41 @@
+{
+  "name": "degenesis",
+  "title": "Degenesis - The Pin Drops",
+  "description": "",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Other",
+      "entity": "Item",
+      "name": "other",
+      "path": "packs/other.db",
+      "system": "degenesis",
+      "package": "world",
+      "absPath": "/Users/user/Library/Application Support/FoundryVTT/Data/worlds/degenesis/packs/other.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "degenesis.jpeg",
+  "system": "degenesis",
+  "coreVersion": "0.7.9",
+  "systemVersion": "0.2.0",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "availability": 0,
+  "unavailable": false,
+  "id": "degenesis"
+}
